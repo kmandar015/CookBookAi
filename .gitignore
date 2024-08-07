@@ -45,3 +45,4 @@ app.*.map.json
 # API keys
 
 /lib/app/core/constants/string_constant.dart
+/assets/screenshots/

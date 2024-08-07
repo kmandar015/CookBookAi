@@ -1,3 +1,7 @@
+Sure! Here is the updated README file with a section for UI screenshots:
+
+---
+
 # CookBookAi
 
 CookBookAi is a smart kitchen companion app that helps you generate recipes based on the ingredients you have. Utilizing the Gemini API and built with Flutter, CookBookAi offers smart suggestions and a vast library of recipes to enhance your cooking experience.
@@ -66,6 +70,17 @@ CookBookAi uses the Gemini API to fetch recipe data based on the provided ingred
 2. **Endpoint Configuration:**
    Ensure the API endpoints in the app match those provided by the Gemini API documentation.
 
+## Screenshots
+
+![Home Screen](assets/screenshots/Home_screen.png)
+*Home Screen*
+
+![Recipe Suggestions](assets/screenshots/Explore.png)
+*Recipe Suggestions*
+
+![Recipe Details](assets/screenshots/Craft_screen.png)
+*Recipe Details*
+
 ## Contributing
 
 Contributions are welcome! If you have suggestions or improvements, feel free to submit a pull request or open an issue.
@@ -95,4 +110,3 @@ git push origin feature/your-feature-name
 ```
 
 5. **Create a pull request:**
-
